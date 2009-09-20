@@ -1,0 +1,4 @@
+ndim-erlblog
+ndim's Erlang blog software
+
+Needs to be integrated with Erlang, yaws, nitrogen and couchdb.
